@@ -1,0 +1,68 @@
+{
+  "contact": [
+    {
+      "id": "9de6",
+      "name": "Suraj",
+      "password": "12345",
+      "email": "sv9773529406@gmail.com",
+      "contact": "9773529406",
+      "course": "Java"
+    },
+    {
+      "id": "9f93",
+      "name": "Happy",
+      "password": "happy123",
+      "email": "happy@gmail.com",
+      "contact": "8505874136",
+      "course": "PHP"
+    },
+    {
+      "id": "3892",
+      "name": "Sanjeet",
+      "password": "sanj@321",
+      "email": "sanjeet@gmail.com",
+      "contact": "7894561230",
+      "course": "NOSQL"
+    },
+    {
+      "id": "0ff0",
+      "name": "Dev",
+      "password": "balveer",
+      "email": "dev@gmail.com",
+      "contact": "8897456210",
+      "course": "Javascript"
+    },
+    {
+      "id": "5cf0",
+      "name": "Fiyoz",
+      "password": "rdj123",
+      "email": "fiyoz@gmail.com",
+      "contact": "9987584710",
+      "course": "Swift"
+    },
+    {
+      "id": "f01d",
+      "name": "Jitender",
+      "password": "school123",
+      "email": "jitender@gmail.com",
+      "contact": "7070397088",
+      "course": "Perl"
+    },
+    {
+      "id": "c7e0",
+      "name": "John",
+      "password": "john123",
+      "email": "John@gmail.com",
+      "contact": "8878785412",
+      "course": "CSS"
+    },
+    {
+      "id": "e46a",
+      "name": "Shivam",
+      "password": "tuition",
+      "email": "shivam@gmail.com",
+      "contact": "7896542305",
+      "course": "SQL"
+    }
+  ]
+}
