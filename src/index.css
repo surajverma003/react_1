@@ -12,6 +12,10 @@ code {
     monospace;
 }
 
+textarea {
+  color: rgba(255, 255, 255,1) !important;
+}
+
 textarea::placeholder {
-  color: white;
+  color: rgba(255, 255, 255,.5) !important;
 }

@@ -57,7 +57,8 @@ function TextBox() {
                 <div className="row">
                     <div className="col-md-12 p-5">
                         <form action="">
-                            <textarea onChange={textData} className="form-control bg-dark text-warning mb-3" value={text} rows="10" placeholder='Message'></textarea>
+                            <h3 className='text-light mb-3'>Text Converter</h3>
+                            <textarea onChange={textData} className="form-control bg-dark text-light mb-3" value={text} rows="10" placeholder='Message'></textarea>
 
                             <input type="button" onClick={uppercase} className="btn btn-primary pb-2 me-2 mb-3" value="Uppercase" />
                             <input type="button" onClick={lowercase} className="btn btn-info pb-2 me-2 mb-3" value="Lowercase" />
